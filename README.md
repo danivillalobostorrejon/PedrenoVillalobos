@@ -4,9 +4,13 @@
 
 ### NBA
 
+Dejo el link por aquí, que es más fácil acceder:
+
 https://www.nba.com/stats/leaders/
 
 ### Bolsa
+
+Dejo un link que podría ser interesante:
 
 https://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?indice=ESI100000000
 
