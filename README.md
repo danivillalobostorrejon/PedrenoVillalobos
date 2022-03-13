@@ -8,7 +8,7 @@ Dejo el link por aquí, que es más fácil acceder:
 
 https://www.nba.com/stats/leaders/
 
-### Bolsa
+### Bolsa
 
 Dejo un link que podría ser interesante:
 
