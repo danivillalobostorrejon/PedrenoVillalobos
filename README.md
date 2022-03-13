@@ -1,4 +1,38 @@
 # PedrenoVillalobos
 Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
-kvjbdcm,nbkfvnle
+## 1. Contexto
+
+
+## 2. Título Dataset
+
+
+## 3. Descripción
+
+
+## 4. Representación gráfica
+
+
+## 5. Contenido
+
+
+## 6. Agradecimientos
+
+
+## 7. Inspiración
+
+
+## 8. Licencia
+
+
+## 9. Código
+
+
+## 10. Dataset 
+
+
+| Contribuciones | Firma |
+| --------- | ---------| 
+| Investigación Previa| |
+| Redacción de las Respuesta| |
+| Desarrollo de código | |
