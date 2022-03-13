@@ -68,6 +68,6 @@ Aqui podemos mirar las licencias de github
 
 | Contribuciones | Firma |
 | --------- | ---------| 
-| Investigación Previa| |
-| Redacción de las Respuesta| |
-| Desarrollo de código | |
+| Investigación Previa| OP; DV |
+| Redacción de las Respuesta| OP; DV |
+| Desarrollo de código | OP; DV |
