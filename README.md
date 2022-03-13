@@ -1,5 +1,4 @@
-# PedrenoVillalobos
-Practica 1 de Tipologia y Ciclo de Vida de los Datos
+# Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
 ## 1. Contexto
 
@@ -30,6 +29,7 @@ Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
 ## 10. Dataset 
 
+## 11. Tabla de Firmas
 
 | Contribuciones | Firma |
 | --------- | ---------| 
