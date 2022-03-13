@@ -1,5 +1,13 @@
 # Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
+### Descripción 
+
+
+
+### Miembros del equipo
+
+Esta practica ha sido realizada por Oscar Pedreño y Daniel Villalobos
+
 ## 1. Contexto
 
 ### NBA
@@ -71,3 +79,6 @@ Aqui podemos mirar las licencias de github
 | Investigación Previa| OP; DV |
 | Redacción de las Respuesta| OP; DV |
 | Desarrollo de código | OP; DV |
+
+## 12. Recursos
+
