@@ -82,11 +82,11 @@ Los análisis previos encontrados tratan las siguientes preguntas: (Analizar pro
 
 La licencia escogida para este trabajo es la licencia CC BY-SA 4.0. Los motivos principales que nos han llevado a elegir esta licencia son:
 
-*Nos permite reconocer el trabajo realizado previamente y las aportaciones que se han realizado respecto el trabajo original. 
+* Nos permite reconocer el trabajo realizado previamente y las aportaciones que se han realizado respecto el trabajo original. 
 
-*Se permite un uso comercial por lo que podría ser utilizado por terceros, pero siempre reconociendo el trabajo original del autor. 
+* Se permite un uso comercial por lo que podría ser utilizado por terceros, pero siempre reconociendo el trabajo original del autor. 
 
-*Las contribuciones se deben publicar sobre la misma licencia por lo que se respetan los dos puntos anteriores. De esta manera, se sigue reconociendo al autor original. 
+* Las contribuciones se deben publicar sobre la misma licencia por lo que se respetan los dos puntos anteriores. De esta manera, se sigue reconociendo al autor original. 
 
 
 ## 9. Código y Dataset 
