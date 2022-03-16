@@ -1,7 +1,6 @@
 # Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
-### Descripción 
-
+### Descripción
 
 
 ### Miembros del equipo
