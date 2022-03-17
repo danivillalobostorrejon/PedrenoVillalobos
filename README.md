@@ -4,7 +4,7 @@ https://www.idealista.com/robots.txt
 
 ### Descripción
 
-
+![Se debería mostrar la imagen](/Users/dani/Desktop/UOC/1r/2n Semestre/Tipologia y ciclo de vida de los datos/PRA 1/PedrenoVillalobos/precio-venta.jpg)
 ### Miembros del equipo
 
 Esta practica ha sido realizada por Oscar Pedreño y Daniel Villalobos
@@ -67,7 +67,7 @@ Poner foto representativa de la info a extraer. Esta en el repositorio.
 
 La página web desde donde extraemos los datos es Idealista, una buscador web dedicado al mercado inmobiliario.
 
-Otros trabajos serían: (Dani pone URL Github)
+Otros trabajos serían: https://github.com/David-Carrasco/Scrapy-Idealista
 
 Se ha utilizado el lenguaje de programación *Python* y de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML.
 
@@ -105,4 +105,5 @@ La licencia escogida para este trabajo es la licencia CC BY-SA 4.0. Los motivos 
 Poner la bibliografia del temario del curso)
 
 
-
+* **Esta fuente nos puede ayudar con lo que queremos realizar**
+https://www.hlaboa.com/post/Compra_tu_casa_de_forma_inteligente_1_web_scraping/
