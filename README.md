@@ -1,41 +1,47 @@
 # Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
-https://www.idealista.com/robots.txt
+https://www.elcorteingles.es/robots.txt
 
 ### Descripción
 
-![Se debería mostrar la imagen](/Users/dani/Desktop/UOC/1r/2n Semestre/Tipologia y ciclo de vida de los datos/PRA 1/PedrenoVillalobos/precio-venta.jpg)
+![Se debería mostrar la imagen]( '/moda_eci.jpg')
 ### Miembros del equipo
 
 Esta practica ha sido realizada por Oscar Pedreño y Daniel Villalobos
 
 ## 1. Contexto
+<p align="justify">
 
-Queremos conocer el mercado de compra de inmuebles del área metropolitana de Barcelona puesto que nos encontramos en una situación en la que nos planteamos conocer como fluctuan los precios y demás variables.
-La gran mayoría de bases de datos que hemos encontrado mostrando tal información o están desactualizadas o son estáticas. Estamos interesados en conocer cual es la situación real.
-Se ha decidido utilizar esta página web (Idealista) ya que nos ofrece una gran información al respecto además de que se actualiza constantemente. 
+Trabajamos en el departamento de *Data* para unos grandes almacenes dedicados exclusivamnete a la moda de hombre. Se nos ha pedido que realicemos un estudio de los precios de la competencia para conocer nuestra situación de mercado respecto a nuestros competidores. Nos centraremos en **El corte Inglés** ya que por volumen de venta nos manejamos sobre las mismas cuotas de mercado.
 
-https://www.idealista.com/venta-viviendas/barcelona-barcelona/
+La página web de donde obtendremos la información principalmente es:
+https://www.elcorteingles.es/moda-hombre/ropa/
+</p> 
+
 
 ## 2. Título Dataset
 
-Home Barcelona city prices
+El dataset final que generaremos a partir de los datos recolectados serà:
+
+precios_eci_ropa
 
 ## 3. Descripción
 
-Nos interesa extraer toda la información relativa al precio del inmueble y sus características a la vez que sus posibles variaciones a lo largo del tiempo. 
-Entre las variables expuestas en la web las que extraeremos son las siguientes: 
-* Id inmueble, 
-* Dirección, 
-* precio, 
-* metros cuadrados
-* precio metro cuadrado
-* numero habitaciones
-* planta
-* exterior/interior
-* fecha
-* link inmueble
-* características básicas
+<p align="justify">
+
+Los datos que nos interesa obtener principalmente son, el precio de la prenda, la marca, el nombre de la prenda, la categoria, los colores de la prenda, sus características.
+Los campos que extraeremos son:
+
+* Fecha
+* Precio
+* Prenda
+* Marca
+* Categoria
+* Colores
+* Composición
+* Mangas
+
+</p>
 
 ## 4. Representación gráfica
 
@@ -44,17 +50,16 @@ Poner foto representativa de la info a extraer. Esta en el repositorio.
 ## 5. Contenido
 
 #### Campos dataset
-* Id inmueble, 
-* Dirección, 
-* precio, 
-* metros cuadrados
-* precio metro cuadrado
-* numero habitaciones
-* planta
-* exterior/interior
-* fecha
-* link inmueble
-* características básicas
+Los campos contenidos en el dataset son:
+
+* Fecha
+* Precio
+* Prenda
+* Marca
+* Categoria
+* Colores
+* Composición
+* Mangas
 
 #### Periodo temporal
 
@@ -65,20 +70,23 @@ Poner foto representativa de la info a extraer. Esta en el repositorio.
 
 ## 6. Agradecimientos
 
-La página web desde donde extraemos los datos es Idealista, una buscador web dedicado al mercado inmobiliario.
+La página web desde donde extraemos los datos es **El Corte Inglés**, unos grandes almacenes reconocidos mundialmente.
 
-Otros trabajos serían: https://github.com/David-Carrasco/Scrapy-Idealista
+Otros trabajos serían: (No he encontrado nada, con python)
 
 Se ha utilizado el lenguaje de programación *Python* y de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML.
 
 
 ## 7. Inspiración
 
-Nuestra motivación principal se basa en responder la pregunta ¿Cual es la situación del mercado inmobiliario en Barcelona? 
-A partir de aquí podríamos tomar decisiones de mejores momentos de compra, pisos/barrios con precio-calidad más alta, etc. 
-Los análisis previos encontrados tratan las siguientes preguntas: (Analizar propuestas encontradas en el punto 6).
+<p align="justify">
+
+La motivación principal para realizar este proyecto es responder la pregunta: ¿Que diferencia de precios existe entre la competencia y nosotros? De esta manera podemos realizar ajustes de precios para ser más competitivos y analizar si la competencia esta realizando prácticas ilegales al rebajar precios por debajo del precio de mercado.
+
+</p>
 
 ## 8. Licencia
+<p align="justify">
 
 La licencia escogida para este trabajo es la licencia CC BY-SA 4.0. Los motivos principales que nos han llevado a elegir esta licencia son:
 
@@ -86,8 +94,9 @@ La licencia escogida para este trabajo es la licencia CC BY-SA 4.0. Los motivos 
 
 * Se permite un uso comercial por lo que podría ser utilizado por terceros, pero siempre reconociendo el trabajo original del autor. 
 
-* Las contribuciones se deben publicar sobre la misma licencia por lo que se respetan los dos puntos anteriores. De esta manera, se sigue reconociendo al autor original. 
+* Las contribuciones se deben publicar sobre la misma licencia por lo que se respetan los dos puntos anteriores. De esta manera, se sigue reconociendo al autor original.
 
+</p>
 
 ## 9. Código y Dataset 
 
