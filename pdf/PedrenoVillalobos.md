@@ -2,9 +2,7 @@
 
 ## Indice
 
-- [Practica 1 de Tipologia y Ciclo de Vida de los Datos](#practica-1-de-tipologia-y-ciclo-de-vida-de-los-datos)
-    + [Descripción](#descripci-n)
-    + [Miembros del equipo](#miembros-del-equipo)
+- 
   * [1. Contexto](#1-contexto)
   * [2. Título Dataset](#2-t-tulo-dataset)
   * [3. Descripción](#3-descripci-n)
