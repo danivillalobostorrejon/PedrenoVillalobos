@@ -1,10 +1,30 @@
 # Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
-https://www.elcorteingles.es/robots.txt
+## Indice
+
+- [Practica 1 de Tipologia y Ciclo de Vida de los Datos](#practica-1-de-tipologia-y-ciclo-de-vida-de-los-datos)
+    + [Descripción](#descripci-n)
+    + [Miembros del equipo](#miembros-del-equipo)
+  * [1. Contexto](#1-contexto)
+  * [2. Título Dataset](#2-t-tulo-dataset)
+  * [3. Descripción](#3-descripci-n)
+  * [4. Representación gráfica](#4-representaci-n-gr-fica)
+  * [5. Contenido](#5-contenido)
+      - [Campos dataset](#campos-dataset)
+      - [Periodo temporal](#periodo-temporal)
+      - [Cómo se ha recogido](#c-mo-se-ha-recogido)
+  * [6. Agradecimientos](#6-agradecimientos)
+  * [7. Inspiración](#7-inspiraci-n)
+  * [8. Licencia](#8-licencia)
+  * [9. Código y Dataset](#9-c-digo-y-dataset)
+  * [10. Tabla de Firmas](#10-tabla-de-firmas)
+  * [11. Recursos](#11-recursos)
+
 
 ### Descripción
 
 ![Se debería mostrar la imagen]( 'https://github.com/danivillalobostorrejon/PedrenoVillalobos/pdf/moda_eci.jpg')
+
 ### Miembros del equipo
 
 Esta practica ha sido realizada por Oscar Pedreño y Daniel Villalobos
