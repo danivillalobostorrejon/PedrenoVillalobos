@@ -4,7 +4,7 @@ https://www.elcorteingles.es/robots.txt
 
 ### Descripción
 
-![Se debería mostrar la imagen]( '/moda_eci.jpg')
+![Se debería mostrar la imagen]( 'https://github.com/danivillalobostorrejon/PedrenoVillalobos/moda_eci.jpg')
 ### Miembros del equipo
 
 Esta practica ha sido realizada por Oscar Pedreño y Daniel Villalobos
