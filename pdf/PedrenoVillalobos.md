@@ -120,6 +120,7 @@ La licencia escogida para este trabajo es la licencia CC BY-SA 4.0. Los motivos 
 
 ## 9. Código y Dataset 
 
+El código y el dataset estan alojados en este mismo repositorio en la carpeta de *scraping*
 
 ## 10. Tabla de Firmas
 
