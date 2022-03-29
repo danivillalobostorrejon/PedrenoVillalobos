@@ -17,4 +17,8 @@ class eciSpider(CrawlSpider):
 # class products_list-item -> span data-json
     # class = product_link
 
+    info_clothing = response.xpath("//*[@class='products_list-item']")
+
+    
+
     
