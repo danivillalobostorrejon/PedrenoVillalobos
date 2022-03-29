@@ -21,7 +21,7 @@
 
 ### Descripción
 
-![Se debería mostrar la imagen]( 'https://github.com/danivillalobostorrejon/PedrenoVillalobos/pdf/moda_eci.jpg')
+![Se debería mostrar la imagen]( https://github.com/danivillalobostorrejon/PedrenoVillalobos/pdf/moda_eci.jpg)
 
 ### Miembros del equipo
 
