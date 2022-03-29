@@ -25,9 +25,12 @@ class eciSpider(CrawlSpider):
         
         return price
 
-    def parse_discount(self, info_clothing_dict):
 
-        discount = float()
+    # def parse_discount(self, info_clothing_dict):
 
-        return discount
+    #     discount = float()
+
+    #     return discount
+
+
     
