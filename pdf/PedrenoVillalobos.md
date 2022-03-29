@@ -51,13 +51,15 @@ Los datos que nos interesa obtener principalmente son, el precio de la prenda, l
 Los campos que extraeremos son:
 
 * Fecha
-* Precio
+* Id Producto
 * Prenda
 * Marca
 * Categoria
+* Precio
+* Precio Descuento
+* Descuento
+* Porcentaje Descuento
 * Colores
-* Composición
-* Mangas
 
 </p>
 
@@ -71,13 +73,15 @@ Poner foto representativa de la info a extraer. Esta en el repositorio.
 Los campos contenidos en el dataset son:
 
 * Fecha
-* Precio
+* Id Producto
 * Prenda
 * Marca
 * Categoria
+* Precio
+* Precio Descuento
+* Descuento
+* Porcentaje Descuento
 * Colores
-* Composición
-* Mangas
 
 #### Periodo temporal
 
