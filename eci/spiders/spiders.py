@@ -21,8 +21,9 @@ class eciSpider(CrawlSpider):
 
     def parse_price(self, info_clothing_dict):
         # TO-DO: extract.pop........
-        price = info_clothing_dict["price"]["o_price"]
         
+        price = info_clothing_dict["price"]["o_price"]
+        # Sacar lista de precios de los diferentes elementos
         return price
 
 
