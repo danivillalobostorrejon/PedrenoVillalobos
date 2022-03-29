@@ -13,6 +13,7 @@ class eciSpider(CrawlSpider):
     start_url = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
 # we need to search for: 
+# parent tag -> products-list
 # class products_list-item -> span data-json
     # class = product_link
 
