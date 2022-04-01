@@ -1,6 +1,7 @@
+#-*- coding: utf-8 -*-
 from http.client import responses
 import scrapy
-from eci.items import eciItem
+from eci import items
 from scrapy.http import Request
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy import linkextractors
@@ -37,7 +38,7 @@ class eciSpider(CrawlSpider):
 
         
         for i in zip(id, name, brand, category, price, price_discount, discount, perc_discount):
-            item = eciItem(date = datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
+            item = items.eciItem(date = datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
                     brand = i[2], category = i[3], price = i[4], 
                        price_discount = i[5], discount = i[6], perc_discount = i[7])
 
