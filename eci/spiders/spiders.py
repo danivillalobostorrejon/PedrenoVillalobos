@@ -1,16 +1,17 @@
 from http.client import responses
 import scrapy
-#from eci.items import eciItem
+from eci.items import eciItem
 from scrapy.http import Request
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy import linkextractors
+import json
+import datetime
 
 
 class eciSpider(CrawlSpider):
 
     name = "eci"
     allowed_domains = ["elcorteingles.es"]
-
 
     start_url = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
@@ -21,21 +22,25 @@ class eciSpider(CrawlSpider):
     
     def parse_price(self, response):
         # TO-DO: extract.pop........
-        good_one = response.xpath("//*[@class='products_list-item']/span").extract()
+        raw_json = response.xpath("//*[@class='products_list-item']/span/@data-json").extract()
+        clean_json = [json.loads(i) for i in raw_json]
+        
 
-        price = good_one["price"]["o_price"]
-        # Sacar lista de precios de los diferentes elementos
+        id = [(field["id"]) for field in clean_json]
+        name = [(field["name"]) for field in clean_json]
+        brand = [(field["brand"]) for field in clean_json]
+        category = [(field["category"]) for field in clean_json]
+        price = [float(field["price"]["o_price"]) for field in clean_json]
+        price_discount = [float(field["price"]["f_price"]) for field in clean_json]
+        discount = [float(field["price"]["discount"]) for field in clean_json]
+        perc_discount = [float(field["price"]["discount_percent"]) for field in clean_json]
 
-        lst_price = [float(flat_price.extract().replace(',','.').strip())
-                    for flat_price in price]
+        
+        for i in zip(id, name, brand, category, price, price_discount, discount, perc_discount):
+            item = eciItem(date = datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
+                    brand = i[2], category = i[3], price = i[4], 
+                       price_discount = i[5], discount = i[6], perc_discount = i[7])
 
-        return good_one
+            yield item
 
-    # def parse_discount(self, info_clothing_dict):
-
-    #     discount = float()
-
-    #     return discount
-
-
-    
+    #parsed = parse_price    
