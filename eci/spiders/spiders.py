@@ -1,7 +1,8 @@
 #-*- coding: utf-8 -*-
+from email.policy import default
 from http.client import responses
 import scrapy
-from eci import items
+from items.items import eciItem
 from scrapy.http import Request
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy import linkextractors
@@ -11,10 +12,10 @@ import datetime
 
 class eciSpider(CrawlSpider):
 
-    name = "eci"
+    name = "elcorteingles"
     allowed_domains = ["elcorteingles.es"]
 
-    start_url = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
+    start_urls = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
 # we need to search for: 
 # parent tag -> products-list
@@ -22,6 +23,8 @@ class eciSpider(CrawlSpider):
     # class = product_link
     
     def parse_price(self, response):
+
+        default_url = "https://elcorteingles.es"
         # TO-DO: extract.pop........
         raw_json = response.xpath("//*[@class='products_list-item']/span/@data-json").extract()
         clean_json = [json.loads(i) for i in raw_json]
@@ -38,7 +41,7 @@ class eciSpider(CrawlSpider):
 
         
         for i in zip(id, name, brand, category, price, price_discount, discount, perc_discount):
-            item = items.eciItem(date = datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
+            item = eciItem(date = datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
                     brand = i[2], category = i[3], price = i[4], 
                        price_discount = i[5], discount = i[6], perc_discount = i[7])
 
