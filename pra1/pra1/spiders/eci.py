@@ -38,5 +38,19 @@ class EciSpider(scrapy.Spider):
             item = eciItem(date = datetime.datetime.now().strftime('%Y-%m-%d'), id_product = i[0], name = i[1],
                     brand = i[2], category = i[3], price = i[4], 
                        price_discount = i[5], discount = i[6], perc_discount = i[7])
-
             yield item
+
+
+        # print("Next page")
+        # print()
+        # next_page = response.xpath("//*[@id='pagination-next']").get()
+        # if next_page:
+        #     abs_url = f"https://www.elcorteingles.es/moda-hombre/ropa{next_page}"
+        #     yield scrapy.Request(
+        #         url = abs_url,
+        #         callback = self.parse
+        #     )
+        # else:
+        #     print()
+        #     print('No Page Left')
+        #     print()
