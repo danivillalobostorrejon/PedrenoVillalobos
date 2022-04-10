@@ -19,7 +19,6 @@ class EciSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        # TO-DO: extract.pop........
         raw_json = response.xpath("//*[@class='products_list-item']/span/@data-json").extract()
         clean_json = [json.loads(i) for i in raw_json]
         
