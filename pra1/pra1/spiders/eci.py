@@ -2,6 +2,8 @@ import scrapy
 import json
 import datetime
 from pra1.items import eciItem
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
 
 
 class EciSpider(scrapy.Spider):
@@ -11,14 +13,12 @@ class EciSpider(scrapy.Spider):
 
     start_urls = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
-# we need to search for: 
-# parent tag -> products-list
-# class products_list-item -> span data-json
-    # class = product_link
-    
+
+    Rules = (Rule(LinkExtractor(allow=(), restrict_xpaths=("//a[@id='pagination-next']/@href",)), callback="parse", follow= True),)
+
+
     def parse(self, response):
 
-        default_url = "https://elcorteingles.es"
         # TO-DO: extract.pop........
         raw_json = response.xpath("//*[@class='products_list-item']/span/@data-json").extract()
         clean_json = [json.loads(i) for i in raw_json]
@@ -41,16 +41,16 @@ class EciSpider(scrapy.Spider):
             yield item
 
 
-        # print("Next page")
-        # print()
-        # next_page = response.xpath("//*[@id='pagination-next']").get()
-        # if next_page:
-        #     abs_url = f"https://www.elcorteingles.es/moda-hombre/ropa{next_page}"
-        #     yield scrapy.Request(
-        #         url = abs_url,
-        #         callback = self.parse
-        #     )
-        # else:
-        #     print()
-        #     print('No Page Left')
-        #     print()
+        print("Next page")
+        print()
+        next_page = response.xpath("//*[@id='pagination-next']/a/@href").get()
+        if next_page:
+            abs_url = f"http://www.elcorteingles.es{next_page}"
+            yield scrapy.Request(
+                url = abs_url,
+                callback = self.parse
+            )
+        else:
+            print()
+            print('No Page Left')
+            print()
