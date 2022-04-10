@@ -19,9 +19,6 @@
   * [11. Recursos](#11-recursos)
 
 
-### Descripción
-
-![Se debería mostrar la imagen]( https://github.com/danivillalobostorrejon/PedrenoVillalobos/pdf/moda_eci.jpg)
 
 ### Miembros del equipo
 
@@ -59,13 +56,12 @@ Los campos que extraeremos son:
 * Precio Descuento
 * Descuento
 * Porcentaje Descuento
-* Colores
 
 </p>
 
 ## 4. Representación gráfica
 
-Poner foto representativa de la info a extraer. Esta en el repositorio.
+![Se debería mostrar la imagen]( https://github.com/danivillalobostorrejon/PedrenoVillalobos/pdf/moda_eci.jpg)
 
 ## 5. Contenido
 
@@ -90,7 +86,7 @@ Uno de los evolutivos que queremos crear en nuestro Bot Scraper es seguir extray
 
 #### Cómo se ha recogido
 
-Hemos usado el framework Scrapy para extraer la página inicial de eci moda hombre. Hemos recogido los datos en formato csv para posteriormente trabajar los datos.
+Hemos usado el framework Scrapy para extraer la información de eci moda hombre. Hemos recogido los datos en formato csv para posteriormente extraer información.
 
 ## 6. Agradecimientos
 
@@ -102,7 +98,7 @@ Otros trabajos que nos han inspirado serían:
 https://github.com/David-Carrasco/Scrapy-Idealista
 https://github.com/GoTrained/Scrapy-Craigslist
 
-Se ha utilizado el lenguaje de programación *Python* y la herraminta de *Web Scraping* para extraer la información alojada en las páginas HTML, ha sido el framework Scrapy y sus librerías internas.
+Se ha utilizado el lenguaje de programación *Python* y la herraminta de *Web Scraping* para extraer la información alojada en las páginas HTML ha sido el framework Scrapy y sus librerías internas.
 
 
 ## 7. Inspiración
@@ -111,7 +107,7 @@ Se ha utilizado el lenguaje de programación *Python* y la herraminta de *Web Sc
 
 La motivación principal para realizar este proyecto es responder varias preguntas: 
 
-  * ¿Que diferencia de precios existe entre la competencia y nosotros?
+  * ¿Qué diferencia de precios existe entre la competencia y nosotros?
   * ¿Qué marcas trabajan con la competencia?
   * ¿Que tipos de productos trabajan la competencia?
   * ¿Qué tipos de descuentos hace la competencia?
