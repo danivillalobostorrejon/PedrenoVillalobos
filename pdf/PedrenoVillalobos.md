@@ -81,29 +81,44 @@ Los campos contenidos en el dataset son:
 * Precio Descuento
 * Descuento
 * Porcentaje Descuento
-* Colores
 
 #### Periodo temporal
+
+Nuestro proyecto, al tratarse de la creación de un catálogo de productos de la página web de El Corte Inglés, extraemos los datos que se encuentran en cada momento en su página web. 
+Uno de los evolutivos que queremos crear en nuestro Bot Scraper es seguir extrayendo los datos de las diferentes páginas y tener un catálogo cada vez mayor.
 
 
 #### Cómo se ha recogido
 
-
+Hemos usado el framework Scrapy para extraer la página inicial de eci moda hombre. Hemos recogido los datos en formato csv para posteriormente trabajar los datos.
 
 ## 6. Agradecimientos
 
-La página web desde donde extraemos los datos es **El Corte Inglés**, unos grandes almacenes reconocidos mundialmente.
+La página web desde donde extraemos los datos es **El Corte Inglés**, unos grandes almacenes españoles reconocidos mundialmente y con una selección de productos muy amplia. Dado que nuestro proyecto
+se va a centrar en investigar las diferentes propuestas del sector moda, seleccionaremos esa clase de productos.
 
-Otros trabajos serían: (No he encontrado nada, con python)
+Otros trabajos que nos han inspirado serían:
 
-Se ha utilizado el lenguaje de programación *Python* y de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML.
+https://github.com/David-Carrasco/Scrapy-Idealista
+https://github.com/GoTrained/Scrapy-Craigslist
+
+Se ha utilizado el lenguaje de programación *Python* y la herraminta de *Web Scraping* para extraer la información alojada en las páginas HTML, ha sido el framework Scrapy y sus librerías internas.
 
 
 ## 7. Inspiración
 
 <p align="justify">
 
-La motivación principal para realizar este proyecto es responder la pregunta: ¿Que diferencia de precios existe entre la competencia y nosotros? De esta manera podemos realizar ajustes de precios para ser más competitivos y analizar si la competencia esta realizando prácticas ilegales al rebajar precios por debajo del precio de mercado.
+La motivación principal para realizar este proyecto es responder varias preguntas: 
+
+  * ¿Que diferencia de precios existe entre la competencia y nosotros?
+  * ¿Qué marcas trabajan con la competencia?
+  * ¿Que tipos de productos trabajan la competencia?
+  * ¿Qué tipos de descuentos hace la competencia?
+  * ¿Sobre qué productos hace descuentos la competencia?
+  * ¿En qué epocas del año centran los descuentos la competencia?
+
+Respondiendo estas preguntas seremos capaces de poder entender como funciona la estrategia de negocio de la competencia y trazar una solución creativa y reactiva a los movimientos de la misma.
 
 </p>
 
@@ -134,8 +149,10 @@ El código y el dataset estan alojados en este mismo repositorio en la carpeta d
 
 ## 11. Recursos
 
-Poner la bibliografia del temario del curso)
-
-
-* **Esta fuente nos puede ayudar con lo que queremos realizar**
-https://www.hlaboa.com/post/Compra_tu_casa_de_forma_inteligente_1_web_scraping/
+Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
+Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+Subirats, L., Calvo, M. (2019). Introducción al ciclo de vida de los datos. Editorial UOC.
+https://docs.scrapy.org/en/latest/topics/selectors.html
+https://www.accordbox.com/blog/scrapy-tutorial-7-how-use-xpath-scrapy/
+https://docs.scrapy.org/en/latest/topics/commands.html
+https://docs.scrapy.org/en/latest/intro/tutorial.html
