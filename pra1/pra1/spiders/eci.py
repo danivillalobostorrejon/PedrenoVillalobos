@@ -6,17 +6,18 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
 
-class EciSpider(scrapy.Spider):
+class EciSpider(CrawlSpider):
     name = 'eci'
-    allowed_domains = ['elcorteingles.com']
+    allowed_domains = ["elcorteingles.es/moda-hombre/ropa/"]
 
     start_urls = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
+    rules = (
+            Rule(LinkExtractor(allow=(), restrict_xpaths=('//a[@id="pagination-next"]',)), follow=True),
+            Rule(LinkExtractor(allow=('moda-hombre/ropa/', )), callback='parse_item'),
+    )
 
-    Rules = (Rule(LinkExtractor(allow=(), restrict_xpaths=("//a[@id='pagination-next']/@href",)), callback="parse", follow= True),)
-
-
-    def parse(self, response):
+    def parse_item(self, response):
 
         raw_json = response.xpath("//*[@class='products_list-item']/span/@data-json").extract()
         clean_json = [json.loads(i) for i in raw_json]
@@ -38,18 +39,17 @@ class EciSpider(scrapy.Spider):
                        price_discount = i[5], discount = i[6], perc_discount = i[7])
             yield item
 
-
-        print("Next page")
-        print()
-        next_page = response.xpath("//*[@id='pagination-next']/a/@href").get()
-        if next_page:
-            abs_url = f"http://www.elcorteingles.es{next_page}"
-            yield scrapy.Request(
-                url = abs_url,
-                callback = self.parse, 
-                dont_filter= True
-            )
-        else:
-            print()
-            print('No Page Left')
-            print()
+        #print("Next page")
+        #print()
+        #next_page = response.xpath("//*[@id='pagination-next']/a/@href").extract()[0]
+        #if next_page:
+        #    abs_url = f"https://www.elcorteingles.es{next_page}"
+        #    yield scrapy.Request(
+        #        url = abs_url,
+        #        callback = self.parse, 
+        #        dont_filter= True,
+        #    )
+        #else:
+        #    print()
+        #    print('No Page Left')
+        #    print()
