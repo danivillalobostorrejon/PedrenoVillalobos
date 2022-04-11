@@ -9,7 +9,6 @@ from scrapy.linkextractors import LinkExtractor
 class EciSpider(scrapy.Spider):
     name = 'eci'
     allowed_domains = ['elcorteingles.com']
-    start_urls = ['http://elcorteingles.com/']
 
     start_urls = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
@@ -47,7 +46,8 @@ class EciSpider(scrapy.Spider):
             abs_url = f"http://www.elcorteingles.es{next_page}"
             yield scrapy.Request(
                 url = abs_url,
-                callback = self.parse
+                callback = self.parse, 
+                dont_filter= True
             )
         else:
             print()

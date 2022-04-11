@@ -1,0 +1,194 @@
+brand,category,date,discount,id_product,name,perc_discount,price,price_discount
+Olimpo,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000424707156,Camisa de hombre regular estampada azul,0.0,85.0,85.0
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001025077105390,Jersey de hombre azul marino con cuello polo,30.0,39.99,27.99
+Studio Classics,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001013620207848,Camisa Oxford de hombre slim estampada,0.0,39.99,39.99
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102555,Jersey de hombre crudo con cuello caja,30.0,39.99,27.99
+Hackett,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000420702474,Camisa de hombre slim fit lisa blanca,0.0,79.0,79.0
+Tommy Hilfiger,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001017908202371,Chaleco de hombre ligero multicolor,0.0,229.9,229.9
+Tommy Jeans,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001012250401036,Chaleco de hombre azul marino con plumas,0.0,149.9,149.9
+Tommy Jeans,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001012250401044,Chaleco de hombre verde oscuro con plumas,0.0,149.9,149.9
+Tommy Hilfiger,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001017908202397,Chaleco de hombre ligero verde,0.0,199.9,199.9
+Michael Kors,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001027675426681,Chaqueta de hombre tipo Field Jacket,0.0,299.0,299.0
+Easy Wear,"Moda hombre,Ropa,Cazadoras",2022-04-11,6.0,001051901606619,Cazadora de hombre con capucha,20.0,29.99,23.99
+Tommy Jeans,"Moda hombre,Ropa,Abrigos,Plumíferos",2022-04-11,0.0,001012250202384,Plumífero de hombre verde oscuro con cremallera,0.0,169.9,169.9
+Selected,"Moda hombre,Ropa,Abrigos,Plumíferos",2022-04-11,0.0,001012250103095,Plumífero de hombre waterproof,0.0,199.99,199.99
+Calvin Klein,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001033711403023,Chaqueta de hombre acolchada ligera reciclada,0.0,219.9,219.9
+GAP,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001085550000781,Chaqueta de abrigo de hombre azul con tres bolsillos,0.0,89.95,89.95
+Selected,"Moda hombre,Ropa,Abrigos,Abrigos de paño",2022-04-11,0.0,001012250103038,Abrigo de hombre 3/4 con cuello alto,0.0,169.99,169.99
+Selected,"Moda hombre,Ropa,Abrigos,Abrigos de paño",2022-04-11,0.0,001012250102808,Abrigo de hombre negro con botones,0.0,149.99,149.99
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083660123932,Polo piqué de hombre azul de manga corta,0.0,100.0,100.0
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083611465374,Polo de hombre classic de piqué azul de manga corta,0.0,120.0,120.0
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083680104078,Polo de hombre classic l.12.12  jaspeado cuello acanalado,0.0,100.0,100.0
+Paul & Shark,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001067855117288,Polo de hombre regular blanco cuello contraste,0.0,153.0,153.0
+Studio Classics,"Moda hombre,Ropa,Polos",2022-04-11,12.0,001013625302024,Polo de hombre de manga larga,30.0,39.99,27.99
+Nautica,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001027606301839,Polo de hombre regular de manga larga tipo rugby a rayas,0.0,79.0,79.0
+Easy Wear,"Moda hombre,Ropa,Cazadoras",2022-04-11,10.0,001051903804584,Cazadora ligera de hombre azul marino con capucha,20.0,49.99,39.99
+brand,category,date,discount,id_product,name,perc_discount,price,price_discount
+Olimpo,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000424707156,Camisa de hombre regular estampada azul,0.0,85.0,85.0
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001025077105390,Jersey de hombre azul marino con cuello polo,30.0,39.99,27.99
+Studio Classics,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001013620207848,Camisa Oxford de hombre slim estampada,0.0,39.99,39.99
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102555,Jersey de hombre crudo con cuello caja,30.0,39.99,27.99
+Hackett,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000420702474,Camisa de hombre slim fit lisa blanca,0.0,79.0,79.0
+Tommy Hilfiger,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001017908202371,Chaleco de hombre ligero multicolor,0.0,229.9,229.9
+Tommy Jeans,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001012250401036,Chaleco de hombre azul marino con plumas,0.0,149.9,149.9
+Tommy Jeans,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001012250401044,Chaleco de hombre verde oscuro con plumas,0.0,149.9,149.9
+Tommy Hilfiger,"Moda hombre,Ropa,Chalecos",2022-04-11,0.0,001017908202397,Chaleco de hombre ligero verde,0.0,199.9,199.9
+Michael Kors,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001027675426681,Chaqueta de hombre tipo Field Jacket,0.0,299.0,299.0
+Easy Wear,"Moda hombre,Ropa,Cazadoras",2022-04-11,6.0,001051901606619,Cazadora de hombre con capucha,20.0,29.99,23.99
+Tommy Jeans,"Moda hombre,Ropa,Abrigos,Plumíferos",2022-04-11,0.0,001012250202384,Plumífero de hombre verde oscuro con cremallera,0.0,169.9,169.9
+Selected,"Moda hombre,Ropa,Abrigos,Plumíferos",2022-04-11,0.0,001012250103095,Plumífero de hombre waterproof,0.0,199.99,199.99
+Calvin Klein,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001033711403023,Chaqueta de hombre acolchada ligera reciclada,0.0,219.9,219.9
+GAP,"Moda hombre,Ropa,Abrigos,Chaquetas",2022-04-11,0.0,001085550000781,Chaqueta de abrigo de hombre azul con tres bolsillos,0.0,89.95,89.95
+Selected,"Moda hombre,Ropa,Abrigos,Abrigos de paño",2022-04-11,0.0,001012250103038,Abrigo de hombre 3/4 con cuello alto,0.0,169.99,169.99
+Selected,"Moda hombre,Ropa,Abrigos,Abrigos de paño",2022-04-11,0.0,001012250102808,Abrigo de hombre negro con botones,0.0,149.99,149.99
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083660123932,Polo piqué de hombre azul de manga corta,0.0,100.0,100.0
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083611465374,Polo de hombre classic de piqué azul de manga corta,0.0,120.0,120.0
+Lacoste,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001083680104078,Polo de hombre classic l.12.12  jaspeado cuello acanalado,0.0,100.0,100.0
+Paul & Shark,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001067855117288,Polo de hombre regular blanco cuello contraste,0.0,153.0,153.0
+Studio Classics,"Moda hombre,Ropa,Polos",2022-04-11,12.0,001013625302024,Polo de hombre de manga larga,30.0,39.99,27.99
+Nautica,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001027606301839,Polo de hombre regular de manga larga tipo rugby a rayas,0.0,79.0,79.0
+Easy Wear,"Moda hombre,Ropa,Cazadoras",2022-04-11,10.0,001051903804584,Cazadora ligera de hombre azul marino con capucha,20.0,49.99,39.99
+Paul & Shark,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001067856102966,Cazadora de hombre econyl azulón,0.0,416.0,416.0
+Calvin Klein Jeans,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001088250000499,Cazadora de hombre con capucha en azul,0.0,169.9,169.9
+Paul & Shark,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001067856201008,Sobrecamisa de hombre save the sea marino,0.0,304.0,304.0
+Paul & Shark,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001067856102933,Cazadora de hombre cremallera azulón,0.0,458.0,458.0
+Studio Classics,"Moda hombre,Ropa,Cazadoras",2022-04-11,21.0,001013622102161,Cazadora de hombre azul marino con capucha,30.0,69.99,48.99
+Studio Classics,"Moda hombre,Ropa,Cazadoras",2022-04-11,24.0,001013622102229,Cazadora de hombre con capucha,30.0,79.99,55.99
+Studio Classics,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001013622102203,Cazadora bómber de hombre,0.0,69.99,69.99
+Calvin Klein,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001033711805193,Camiseta de hombre con logo de manga corta,0.0,39.9,39.9
+Calvin Klein,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001033711805185,Camiseta de hombre con logo de manga corta,0.0,39.9,39.9
+Calvin Klein,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001004981613344,Camiseta de hombre negra de manga corta,0.0,39.9,39.9
+Calvin Klein,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001033711805169,Camiseta de hombre elástica de algodón con logo,0.0,49.9,49.9
+Tommy Hilfiger,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con cremallera",2022-04-11,0.0,001017906503390,Chaqueta deportiva de hombre azul con cuello perkins y cierre en cremallera,0.0,129.9,129.9
+Tommy Hilfiger,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001017906503416,Sudadera de hombre multicolor con capucha,0.0,139.9,139.9
+Selected,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001012260219477,Sudadera de hombre logo en la espalda algodón reciclado,0.0,29.99,29.99
+Tommy Hilfiger,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001017906503382,Sudadera de hombre blanca con capucha,0.0,129.9,129.9
+Tommy Hilfiger,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con cremallera",2022-04-11,0.0,001017906503408,Chaqueta deportiva de hombre gris con cuello perkins y cierre en cremallera,0.0,129.9,129.9
+Tommy Hilfiger,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001017906503374,Sudadera de hombre negra con capucha,0.0,129.9,129.9
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102530,Jersey de hombre azul marino con cuello caja,30.0,39.99,27.99
+Tommy Hilfiger,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001004912804178,Jersey de hombre de color blanco con cuello redondo,0.0,99.9,99.9
+Tommy Hilfiger,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001004920205145,Cárdigan de hombre con cremallera completa en verde,0.0,129.9,129.9
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013304693,Jersey de hombre multicolor con cuello caja,0.0,29.99,29.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013101081,Jersey de hombre marrón con cuello caja,0.0,22.99,22.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013101107,Jersey de hombre azul celeste con cuello caja,0.0,22.99,22.99
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,13.8,001013626102563,Chaqueta de punto de hombre gris claro con cremallera,30.0,45.99,32.19
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001025077105374,Jersey de hombre camel con cuello polo,30.0,39.99,27.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,10.8,001025013304735,Jersey de hombre azul con cuello caja,30.0,35.99,25.19
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102589,Jersey de hombre verde con cuello caja,30.0,39.99,27.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001025077105382,Jersey de hombre azul marino con cuello polo,30.0,39.99,27.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,9.0,001025013500019,Chaleco de punto de hombre marrón,30.0,29.99,20.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,9.0,001025077400015,Chaleco de punto de hombre crudo,30.0,29.99,20.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013304701,Jersey de hombre multicolor con cuello caja,0.0,29.99,29.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013101115,Jersey de hombre verde claro con cuello caja,0.0,22.99,22.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013101073,Jersey de hombre azul marino con cuello caja,0.0,22.99,22.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001025013304685,Jersey de hombre multicolor con cuello caja,0.0,29.99,29.99
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102571,Jersey de hombre verde claro con cuello caja,30.0,39.99,27.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,4.6,001025013101123,Jersey de hombre amarillo con cuello caja,20.0,22.99,18.39
+Selected,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001012260004598,Jersey de hombre con cuello caja,0.0,39.99,39.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,4.6,001025013101099,Jersey de hombre beige con cuello caja,20.0,22.99,18.39
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,12.0,001013626102548,Jersey de hombre azul con cuello perkins,30.0,39.99,27.99
+Studio Classics,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,10.8,001013626102522,Jersey de hombre con cuello pico,30.0,35.99,25.19
+Easy Wear,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,9.0,001051901312986,Jersery de hombre con cuello panadero,30.0,29.99,20.99
+Green Coast,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,10.8,001025013304727,Jersey de hombre azul marino con cuello alto,30.0,35.99,25.19
+Easy Wear,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,9.0,001051901313018,Jersey de hombre con cuello caja,30.0,29.99,20.99
+Easy Wear,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,7.8,001051901313273,Jersey de hombre con cuello caja,30.0,25.99,18.19
+Selected,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001012210106642,Pantalón de hombre chino Slim Fit,0.0,59.99,59.99
+Only & Sons,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001012210106006,Chino de hombre tapered azul,0.0,39.99,39.99
+Only & Sons,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001012210105990,Pantalón de hombre tapered,0.0,39.99,39.99
+Selected,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001012210102302,Chino de hombre slim,0.0,69.99,69.99
+GAP,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001085510101752,Chino de hombre gris,0.0,49.95,49.95
+Calvin Klein,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001033711603911,Camisa de hombre slim de algodón suave,0.0,79.9,79.9
+Calvin Klein,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001033711603903,Camisa de hombre slim de algodón suave,0.0,79.9,79.9
+Calvin Klein,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001033711603895,Camisa de hombre slim de punto piqué,0.0,79.9,79.9
+Calvin Klein,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001033711603887,Camisa de hombre slim de punto piqué,0.0,79.9,79.9
+Calvin Klein,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001033711603945,Camisa de hombre slim de algodón estampada,0.0,69.9,69.9
+GAP,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001085561500332,Sudadera de hombre azul marino con capucha,0.0,49.95,49.95
+Dustin,"Moda hombre,Ropa,Pantalones,Pantalones cinco bolsillos",2022-04-11,0.0,001004225222621,Pantalón cinco bolsillos de hombre classic,0.0,29.95,29.95
+Easy Wear,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001051902310161,Chino de hombre skinny stretch,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,4.6,001051901313133,Jersey de hombre con cuello caja,20.0,22.99,18.39
+Easy Wear,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001051902310351,Chino de hombre slim,0.0,29.99,29.99
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016450,Camiseta de hombre de negra de manga corta,0.0,44.9,44.9
+Easy Wear,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001051906514446,Camiseta de hombre con algodón BCI de manga corta,0.0,6.99,6.99
+Dustin,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000413754946,Camisa Essential popelín de hombre classic de cuadros,0.0,29.95,29.95
+Easy Wear,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001051909505425,Polo de hombre de manga corta,0.0,17.99,17.99
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900306625,Vaquero de hombre skinny negro,0.0,29.99,29.99
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016336,Camiseta de hombre verde de manga corta,0.0,44.9,44.9
+Only & Sons,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,0.0,001012260216077,Sudadera de hombre con capucha,0.0,24.99,24.99
+Easy Wear,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,4.6,001051901313232,Jersey de hombre con cuello pico,20.0,22.99,18.39
+Sfera,"Moda hombre,Ropa,Americanas y Blazers",2022-04-11,0.0,001056305300230,Americana de hombre azul claro,0.0,39.99,39.99
+Levi's,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012241508212,Camiseta de hombre granate de manga corta,0.0,35.0,35.0
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900306575,Vaquero de hombre skinny azul,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001051902112369,Camisa Oxford de hombre slim lisa,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900306567,Vaquero de hombre skinny azul,0.0,29.99,29.99
+Jack & Jones,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,12.0,001012260219279,Sudadera de hombre print,30.0,39.99,27.99
+Sfera,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001056110111749,Chino de hombre slim beige,0.0,19.99,19.99
+Tommy Jeans,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012241510093,Camiseta de hombre con algodón orgánico azul marino de manga corta con logo,0.0,34.9,34.9
+Easy Wear,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001051902310112,Chino de hombre regular stretch,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001051902112419,Camisa Oxford de hombre slim de rayas,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900307334,Vaquero de hombre straight azul claro,0.0,29.99,29.99
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016369,Camiseta de hombre azul de manga corta,0.0,39.9,39.9
+Easy Wear,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con cremallera",2022-04-11,4.6,001051901606536,Chaqueta deportiva de hombre con capucha,20.0,22.99,18.39
+Easy Wear,"Moda hombre,Ropa,Pantalones,Pantalones joggers",2022-04-11,0.0,001051902310757,Jogger de hombre slim,0.0,29.99,29.99
+Selected,"Moda hombre,Ropa,Pantalones,Pantalones cargo",2022-04-11,25.0,001012210105701,Pantalón cargo de hombre tapered,55.0,44.99,19.99
+Jack & Jones,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,5.0,001012260218669,Sudadera de hombre,20.0,24.99,19.99
+Levi's,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001012211109595,Vaquero de hombre 501® Original recto lavado azul oscuro,0.0,110.0,110.0
+Studio Classics,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001013685209697,Polo de hombre de manga corta,0.0,29.99,29.99
+Selected,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001012220201433,Camisa de vestir de hombre regular lisa,0.0,19.99,19.99
+Dustin,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001004225500877,Vaquero de hombre regular,0.0,35.95,35.95
+Selected,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001012220201375,Camisa de vestir slim lisa,0.0,39.99,39.99
+Jack & Jones,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012240210422,Camiseta de hombre de manga corta,0.0,9.99,9.99
+Tommy Jeans,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001012210002510,Vaquero Scanton de hombre con algodón reciclado slim azul claro,0.0,94.9,94.9
+Dustin,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001004912903400,Polo Essential de hombre de manga larga,0.0,29.95,29.95
+Levi's,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012241508204,Camiseta de hombre azul de manga corta,0.0,35.0,35.0
+Dustin,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000413754862,Camisa Essential oxford fácil plancha de hombre classic,0.0,29.95,29.95
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016468,Camiseta de hombre blanca de manga corta,0.0,44.9,44.9
+Dustin,"Moda hombre,Ropa,Pantalones,Pantalones de vestir",2022-04-11,0.0,001004285110930,Pantalón de vestir de hombre Dustin classic,0.0,49.95,49.95
+Dustin,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000410707145,Camisa Essential oxford fácil plancha de hombre classic,0.0,29.95,29.95
+Easy Wear,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001051906514693,Camiseta de hombre en manga corta,0.0,6.99,6.99
+Emidio Tucci,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000410706790,Camisa de lino de hombre classic lisa,0.0,49.95,49.95
+Dustin,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001004912509892,Jersey Essential de hombre liso con el cuello de pico,0.0,29.95,29.95
+Studio Classics,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001013685209739,Polo piqué de hombre de manga corta,0.0,25.99,25.99
+Green Coast,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001025037103659,Camiseta de hombre en algodón BCI blanca de manga corta,0.0,7.99,7.99
+Dustin,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000412739534,Camisa Essential oxford fácil plancha de hombre classic,0.0,29.95,29.95
+Easy Wear,"Moda hombre,Ropa,Pantalones,Pantalones joggers",2022-04-11,4.6,001051901700545,Pantalón deportivo largo de hombre,20.0,22.99,18.39
+Easy Wear,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001051904105437,Camisa de hombre slim lisa,0.0,25.99,25.99
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900306591,Vaquero de hombre skinny azul,0.0,29.99,29.99
+Only & Sons,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001012260216127,Jersey de hombre con cuello caja,0.0,24.99,24.99
+GAP,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001085541500915,Pack de dos camisetas de hombre multicolor de manga corta,0.0,29.95,29.95
+Levi's,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001004240125908,Vaquero de hombre 501® Original con algodón orgánico straight lavado azul,0.0,110.0,110.0
+Sfera,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001056120332483,Camisa de hombre regular lisa blanca,0.0,17.99,17.99
+Levi's,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012241508980,Camiseta de hombre blanca de manga corta,0.0,29.0,29.0
+Tommy Hilfiger,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001017904205089,Vaquero de hombre Denton regular con lavado oscuro,0.0,99.9,99.9
+Easy Wear,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001051906514610,Camiseta de hombre con algodón BCI de manga corta,0.0,6.99,6.99
+Jack & Jones,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas con capucha",2022-04-11,10.5,001012260218156,Sudadera de hombre,30.0,34.99,24.49
+Hackett,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000424707149,Camisa de hombre slim fit con microestampado azul,0.0,79.0,79.0
+Sfera,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001056110007434,Vaquero de hombre regular azul,0.0,17.99,17.99
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016377,Camiseta de hombre roja de manga corta,0.0,39.9,39.9
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016385,Camiseta de hombre blanca de manga corta,0.0,39.9,39.9
+Studio Classics,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001013685209804,Polo de hombre de manga corta,0.0,25.99,25.99
+Easy Wear,"Moda hombre,Ropa,Pantalones cortos y Bermudas",2022-04-11,0.0,001051901700636,Pantalón deportivo corto de hombre,0.0,17.99,17.99
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900307300,Vaquero de hombre straight azul,0.0,29.99,29.99
+Easy Wear,"Moda hombre,Ropa,Trajes,Pantalon de traje",2022-04-11,0.0,001051904301010,Pantalón Fácil Plancha de traje de hombre Easy Wear slim básica negra,0.0,29.99,29.99
+Emidio Tucci,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000420602716,Camisa Fácil Plancha de hombre regular lisa blanca,0.0,49.95,49.95
+Easy Wear,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001051900306609,Vaquero de hombre skinny azul,0.0,29.99,29.99
+Jack & Jones,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001012240211099,Camiseta print calavera de hombre,0.0,14.99,14.99
+Emidio Tucci,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001000410706857,Camisa oxford fácil plancha de hombre classic lisa,0.0,39.95,39.95
+Tommy Hilfiger,"Moda hombre,Ropa,Camisas",2022-04-11,0.0,001017905215335,Camisa de hombre slim lisa azul,0.0,89.9,89.9
+Calvin Klein,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001033711805292,Camiseta de hombre de algodón con logo vertical,0.0,39.9,39.9
+Sfera,"Moda hombre,Ropa,Americanas y Blazers",2022-04-11,0.0,001056305300248,Americana de hombre beige,0.0,39.99,39.99
+Tommy Jeans,"Moda hombre,Ropa,Cazadoras",2022-04-11,0.0,001012250103921,Cazadora de hombre tipo bomber con cremallera,0.0,124.9,124.9
+Dustin,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,0.0,001004285397644,Chino de hombre classic,0.0,29.95,29.95
+Sfera,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001056110007483,Vaquero de hombre slim azul,0.0,19.99,19.99
+Dustin,"Moda hombre,Ropa,Trajes,Trajes completos",2022-04-11,0.0,001000185591831,Traje de hombre classic rústico azul,0.0,209.0,209.0
+Only & Sons,"Moda hombre,Ropa,Pantalones,Pantalones joggers",2022-04-11,0.0,001012210104126,Pantalón deportivo largo de hombre,0.0,24.99,24.99
+Studio Classics,"Moda hombre,Ropa,Chalecos",2022-04-11,10.0,001013622102112,Chaleco acolchado de color azul marino,20.0,49.99,39.99
+Sfera,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001056110007475,Vaquero de hombre slim azul,0.0,19.99,19.99
+Easy Wear,"Moda hombre,Ropa,Americanas y Blazers",2022-04-11,0.0,001051900401640,Americana piqué de hombre slim,0.0,79.99,79.99
+Tommy Hilfiger,"Moda hombre,Ropa,Camisetas",2022-04-11,0.0,001017955016328,Camiseta de hombre azul de manga corta,0.0,44.9,44.9
+Sfera,"Moda hombre,Ropa,Vaqueros",2022-04-11,0.0,001056110007491,Vaquero de hombre slim azul claro,0.0,19.99,19.99
+Sfera,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001056131212542,Polo blanco de hombre de manga corta,0.0,12.99,12.99
+Easy Wear,"Moda hombre,Ropa,Polos",2022-04-11,0.0,001051909505359,Polo de hombre con algodón BCI de manga corta,0.0,17.99,17.99
+Pepe Jeans,"Moda hombre,Ropa",2022-04-11,0.0,8445512048119,Camiseta de hombre en color blanco de manga corta,0.0,19.9,19.9
+Studio Classics,"Moda hombre,Ropa,Pantalones,Chinos",2022-04-11,8.0,001013621202509,Chino de hombre,20.0,39.99,31.99
+Selected,"Moda hombre,Ropa,Sudaderas y Chándals,Sudaderas sin capucha",2022-04-11,0.0,001012260215434,Sudadera de hombre en algodón orgánico con cuello redondo,0.0,19.99,19.99
+Sfera,"Moda hombre,Ropa,Punto y Jerséis",2022-04-11,0.0,001056130606710,Jersey de hombre azul marino con cuello alto,0.0,19.99,19.99
