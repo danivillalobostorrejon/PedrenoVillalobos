@@ -19,9 +19,9 @@ NEWSPIDER_MODULE = 'pra1.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-FEED_FORMAT = 'csv'
-
-FEED_URI = 'precios_eci_ropa.csv'
+FEED_EXPORTERS = {
+    'headless': 'pra1.exporters.HeadlessCsvItemExporter',
+}
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
