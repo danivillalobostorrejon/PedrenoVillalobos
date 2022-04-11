@@ -38,18 +38,3 @@ class EciSpider(CrawlSpider):
                     brand = i[2], category = i[3], price = i[4], 
                        price_discount = i[5], discount = i[6], perc_discount = i[7])
             yield item
-
-        #print("Next page")
-        #print()
-        #next_page = response.xpath("//*[@id='pagination-next']/a/@href").extract()[0]
-        #if next_page:
-        #    abs_url = f"https://www.elcorteingles.es{next_page}"
-        #    yield scrapy.Request(
-        #        url = abs_url,
-        #        callback = self.parse, 
-        #        dont_filter= True,
-        #    )
-        #else:
-        #    print()
-        #    print('No Page Left')
-        #    print()
