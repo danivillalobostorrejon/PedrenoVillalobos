@@ -8,12 +8,12 @@ from scrapy.linkextractors import LinkExtractor
 
 class EciSpider(CrawlSpider):
     name = 'eci'
-    allowed_domains = ["elcorteingles.es/moda-hombre/ropa/"]
+    allowed_domains = ["elcorteingles.es"]
 
     start_urls = ["https://www.elcorteingles.es/moda-hombre/ropa/"]
 
     rules = (
-            Rule(LinkExtractor(allow=(), restrict_xpaths=('//a[@id="pagination-next"]',)), follow=True),
+            Rule(LinkExtractor(restrict_xpaths=('//a[@id="pagination-next"]',)), follow=True),
             Rule(LinkExtractor(allow=('moda-hombre/ropa/', )), callback='parse_item'),
     )
 
