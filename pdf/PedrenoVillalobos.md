@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Practica 1 de Tipologia y Ciclo de Vida de los Datos
 
 ## Indice
