@@ -9,3 +9,5 @@ activate_venv.txt
 /__pycache__
 
 *.docx
+
+/pdf/*.md
